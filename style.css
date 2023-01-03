@@ -11,3 +11,21 @@
 h3{
     color: rgb(123, 95, 17);
 }
+.blog{
+    background-color: tomato;
+    padding: 15px 25px;
+    margin: 30px 20px;
+    border: 5px solid saddlebrown;
+    border-radius: 20px;
+    box-shadow: 5px 10px 20px;
+}
+p{
+    text-align: justify;
+}
+h2{
+    text-align: center;
+    margin: 10px ;
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: wavy;
+}
