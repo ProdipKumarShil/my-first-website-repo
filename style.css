@@ -5,6 +5,9 @@
     background-image: url(/img/header-background-2.jpg);
     height: 300px;
     
-    background-size: contain;
-    background-repeat: repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    color: rgb(123, 95, 17);
 }
